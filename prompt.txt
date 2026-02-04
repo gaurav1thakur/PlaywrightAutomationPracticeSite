@@ -1,0 +1,5 @@
+Act as a Senior QA Automation Engineer. 
+Create a detailed Playwright Test Plan in Markdown for the website https://practice.expandtesting.com/inputs 
+The plan must cover key functional Requirements:
+Framework Pattern: Use the Page Object Model (POM) approach.
+Scenarios: Include positive flows and negative flows (e.g., invalid, empty fields).
