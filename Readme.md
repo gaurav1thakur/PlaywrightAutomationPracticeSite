@@ -3,7 +3,7 @@ Playwright MCP
 1. playwright-test-planner
 2. playwright-test-generator
 3. playwright-test-healer
-
+```
 PlaywrightAutomationPracticeSite/
 ├── pages/
 │   ├── BasePage.ts
@@ -21,7 +21,7 @@ PlaywrightAutomationPracticeSite/
 │   └── inputs-form.plan.md
 ├── playwright.config.js
 └── package.json
-
+```
 Allure Reporting
  
 1. Install the Allure Playwright adapter and make sure that the Playwright framework itself is also listed in the project's dependencies.
